@@ -13,8 +13,16 @@ Discussões, aprendizado e conteúdos relacionados a criação, manutenção e b
   - Padrões e boas práticas
 - Monolito vs Micro serviços
   - Padrões e boas práticas
+- Segurança
+- Escalabilidade
+- Resiliência 
 - Testes em API's
   - Unitários
   - De integração
   - De carga
+  - Funcionais (E2E)
   - Padrões e boas práticas
+- API em tempo real
+- Straming de dados via API
+
+
