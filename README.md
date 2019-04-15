@@ -13,6 +13,10 @@ Discussões, aprendizado e conteúdos relacionados a criação, manutenção e b
 - REST
   - Padrões e boas práticas  
     [Modelo e maturiade REST](https://martinfowler.com/articles/richardsonMaturityModel.html "Richardson Maturity Model")
+    
+- GRAPHQL
+  - Padrões e boas práticas 
+  
 - Monolito vs Micro serviços
   - Padrões e boas práticas  
     [Artigo Martin Fowler sobre Microsserviços](https://martinfowler.com/articles/microservices.html "Microservices")  
