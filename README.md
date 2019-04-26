@@ -2,7 +2,7 @@
 Discussões, aprendizado e conteúdos relacionados a criação, manutenção e boas práticas em API's
 
 ## Próximo encontro
-- 22/04 - Com base nos temas abaixo, pesquisem e tragam referências encontradas para decidirmos por onde começar
+- 29/04 - Com base nos temas abaixo, pesquisem e tragam referências encontradas para decidirmos por onde começar
 ## Sugestões para conteúdos abordados na Guilda
 - Modelos/abordagens de design de API's mais usados no mercado atualmente  
   * [TM Forum](https://www.tmforum.org/) - **Fernanda**/**Guilherme**
