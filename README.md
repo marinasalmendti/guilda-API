@@ -1,8 +1,11 @@
 # guilda-API
 Discussões, aprendizado e conteúdos relacionados a criação, manutenção e boas práticas em API's
+[Planilha com cronograma](https://docs.google.com/spreadsheets/d/1tXKu1I4wGFTarD2l4iqRdla7UNU3CJMms7lyt--8Coc/edit#gid=0)
 
 ## Próximo encontro
-- 29/04 - Com base nos temas abaixo, pesquisem e tragam referências encontradas para decidirmos por onde começar
+- 13/05 
+ - Apresentação do case Prodap - migração de tecnologias para micro serviços com NodeJS
+ - Com base nos temas abaixo, continuem pesquisando e tragam referências encontradas para continuarmos o cronograma.
 ## Sugestões para conteúdos abordados na Guilda
 - Modelos/abordagens de design de API's mais usados no mercado atualmente  
   * [TM Forum](https://www.tmforum.org/) - **Fernanda**/**Guilherme**
@@ -32,7 +35,9 @@ Discussões, aprendizado e conteúdos relacionados a criação, manutenção e b
     [Artigo Marco Mendes, consultor da área, sobre Microsserviços](https://marco-mendes.com/2016/11/26/microsservicos-e-outros-padroes-de-arquitetura-de-software/ "Microsserviços e Outros Padrões de Arquitetura de Software")
 - Segurança - **Shinneider**
 - Escalabilidade
-- Resiliência 
+- Resiliência - **Tuturo**
+ * Padrão SAGA
+ * Messageria (mensageria) 
 - Testes em API's
   - Unitários
   - De integração
