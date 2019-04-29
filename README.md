@@ -21,6 +21,12 @@ Discussões, aprendizado e conteúdos relacionados a criação, manutenção e b
   - Padrões e boas práticas 
   
 - Monolito vs Micro serviços - **Ramon** 
+  - [Introdução](https://dzone.com/articles/microservices-1-introduction-monolithic-vs-microse)
+  - Comparativos
+    * [Vantagens e Desvantagens](https://dev.to/alex_barashkov/microservices-vs-monolith-architecture-4l1m)
+    * [Comparativo 1](https://dev.to/alex_barashkov/microservices-vs-monolith-architecture-4l1m)
+    * [Comparativo 2](https://medium.com/@raycad.seedotech/monolithic-vs-microservice-architecture-e74bd951fc14)
+    * [Qual arquitetura usar no seu projeto?](https://medium.freecodecamp.org/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531)
   - Padrões e boas práticas
     [Artigo Martin Fowler sobre Microsserviços](https://martinfowler.com/articles/microservices.html "Microservices")  
     [Artigo Marco Mendes, consultor da área, sobre Microsserviços](https://marco-mendes.com/2016/11/26/microsservicos-e-outros-padroes-de-arquitetura-de-software/ "Microsserviços e Outros Padrões de Arquitetura de Software")
