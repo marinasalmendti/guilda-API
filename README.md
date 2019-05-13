@@ -34,6 +34,11 @@ Discussões, aprendizado e conteúdos relacionados a criação, manutenção e b
     [Artigo Martin Fowler sobre Microsserviços](https://martinfowler.com/articles/microservices.html "Microservices")  
     [Artigo Marco Mendes, consultor da área, sobre Microsserviços](https://marco-mendes.com/2016/11/26/microsservicos-e-outros-padroes-de-arquitetura-de-software/ "Microsserviços e Outros Padrões de Arquitetura de Software")
 - Segurança - **Shinneider**
+   * [Segurança de APIs](https://www.redhat.com/pt-br/topics/security/api-security)
+   * [How to Secure Your REST API using Proven Best Practices](https://stormpath.com/blog/secure-your-rest-api-right-way)
+   * [API Security Articles](https://apisecurity.io/)
+   * [State of API Security](https://www.soapui.org/learn/security/state-of-api-security.html)
+   * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - Escalabilidade
 - Resiliência - **Tuturo**
  * Padrão SAGA
