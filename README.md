@@ -3,8 +3,8 @@ Discussões, aprendizado e conteúdos relacionados a criação, manutenção e b
 [Planilha com cronograma](https://docs.google.com/spreadsheets/d/1tXKu1I4wGFTarD2l4iqRdla7UNU3CJMms7lyt--8Coc/edit#gid=0)
 
 ## Próximo encontro
-- 13/05 
- - Apresentação do case Prodap - migração de tecnologias para micro serviços com NodeJS
+- 27/05 
+ - Apresentação do Marco sobre GRAPHQL.
  - Com base nos temas abaixo, continuem pesquisando e tragam referências encontradas para continuarmos o cronograma.
 ## Sugestões para conteúdos abordados na Guilda
 - Modelos/abordagens de design de API's mais usados no mercado atualmente  
